@@ -1,0 +1,2 @@
+# kingstack
+kingstack web auto
