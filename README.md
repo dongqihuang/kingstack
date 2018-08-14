@@ -1,2 +1,2 @@
 #webstack
-stack web automation
+webstack for web ui automation.
