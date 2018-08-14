@@ -1,2 +1,2 @@
-# kingstack
-kingstack web auto
+#webstack
+stack web automation
